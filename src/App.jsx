@@ -20,7 +20,7 @@ function App() {
 
         <div>
         <div className="addTask">
-          <input  onChange={handleChange} ref={inputValue} placeholder="add todo..."/>
+          <input  onChange={handleChange} ref={inputValue} placeholder="add task..."/>
           <button 
             className="btnAdd" onClick={()=>{
               dispatch(addTask(text));
