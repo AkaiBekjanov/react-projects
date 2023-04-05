@@ -1,0 +1,6 @@
+.notes{
+    display:grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,325px));
+    justify-content: center;
+  gap:18px
+}

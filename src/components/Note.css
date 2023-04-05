@@ -1,0 +1,28 @@
+.note{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width:300px;
+    height:300px;
+    padding:25px;
+    border-radius: 22px;
+    text-align: left;
+    font-size: 19.6px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: yellow;
+}
+
+.note-footer{
+    display: flex;
+    justify-content: space-between;
+  
+}
+.note p{
+    cursor: pointer;
+}
+.data{
+    cursor: pointer;
+}
+.delete-icon{
+    cursor: pointer;
+}

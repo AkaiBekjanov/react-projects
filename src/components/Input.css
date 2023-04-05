@@ -1,0 +1,16 @@
+.inputDisplay{
+    position: relative;
+}
+.input{
+    outline: none;
+    width: 70%;
+    padding: 7px;
+    border-radius: 15px;
+    border: 1px solid ;
+   
+    font-size: 25px;
+}
+.search{
+    position: absolute;
+    
+}
