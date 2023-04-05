@@ -8,16 +8,7 @@ import Task from './Task'
    
     const todos=useSelector(state=>state.todo.todolist);
     
-    //adding
-    // const addTask=()=>{
-    //   if(!newTask){
-    //     return 
-    //   }
-    //   const task={
-    //     id:todoList.length === 0 ? 1 : todoList[todoList.length-1].id + 1,
-    //     isCompleted:false,
-    //     taskName:newTask
-    //   }
+  
     
     //   setTodoList([...todoList,task]);
   

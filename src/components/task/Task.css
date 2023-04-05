@@ -8,6 +8,13 @@
     gap:30px;
     transition: all ease 0.5s;
 }
+
+.taskName{
+   
+   color:black;
+   text-decoration-color: red;
+        
+}
 .checkbox{
     
  border: none;
